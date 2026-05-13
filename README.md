@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/girimaji-saiteja-569b356a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_URL_HERE">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://saiteja-security.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
